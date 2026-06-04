@@ -4,5 +4,5 @@
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-pip freeze -l > requirements.txt
+pip install -r requirements.txt
 ```
